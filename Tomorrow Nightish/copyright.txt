@@ -1,0 +1,10 @@
+This theme was adapted from Simplified Dark by Luke
+Hatcher (@lukeman) to include colors from the palette
+of the Tomorrow Night theme. Original copyright notice
+from that theme is below.
+
+---
+
+This style is a modified and stripped down version of 
+the "Simplified" theme developed by "Cowboy" Ben Alman
+(http://benalman.com/). It is copyright to him. 
