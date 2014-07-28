@@ -8,5 +8,5 @@ Installation
 ============
 Check out this git repo or copy the theme folder into ~/Library/Application Support/Textual/Styles in a sub-folder and it will be an available option in the Textual preferences pane.
 
-    cd ~/Library/Application Support/Textual/Styles
+    cd ~/Library/Containers/com.codeux.irc.textual/Data/Library/Application\ Support/Textual\ IRC/Styles/
     git clone git://github.com/lukeman/tomorrow-nightish-textual.git
